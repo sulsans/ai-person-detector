@@ -14,5 +14,5 @@ Pillow
 tensorflow
 numpy
 
-ini masih tidak bisa di pakai entah kenapa
+udah bisa tinggal ngerapihin outputnya
 mungkin ada yang bisa bantu?
