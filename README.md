@@ -16,3 +16,5 @@ numpy
 
 udah bisa tinggal ngerapihin outputnya
 mungkin ada yang bisa bantu?
+
+masih belum jadi
